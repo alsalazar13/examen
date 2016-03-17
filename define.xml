@@ -1,0 +1,48 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss version="2.0">
+<channel>
+<title>
+DOF - Diario Oficial de la Federación - Indicadores
+</title>
+<link>http://dof.gob.mx</link>
+<description>
+Diario Oficial de la Federación, Río Amazonas No. 62, Col. Cuauhtémoc, C.P. 06500, Ciudad de México, Secretaría de Gobernación Tel. 5093-3200, Correo electrónico: dof@segob.gob.mx.
+</description>
+<image>
+<url>http://dof.gob.mx/images/logo_dof.gif</url>
+<title>DOF - Diario Oficial de la Federación</title>
+<link>http://dof.gob.mx/</link>
+</image>
+<generator>DOF - Diario Oficial de la Federación</generator>
+<author>Diario Oficial de la Federación</author>
+<copyright>
+Copyright © 2006 DOF - Diario Oficial de la Federación
+</copyright>
+<language>es-mx</language>
+<ttl>60</ttl>
+<item>
+<title>DOLAR</title>
+<description>17.9260</description>
+<valueDate>16/03/16</valueDate>
+<pubDate>Wed, 16 Mar 2016 00:00:00 -0600</pubDate>
+</item>
+<item>
+<title>UDIS</title>
+<description>5.444014</description>
+<valueDate>16/03/16</valueDate>
+<pubDate>Thu, 10 Mar 2016 00:00:00 -0600</pubDate>
+</item>
+<item>
+<title>TIIE 28 DIAS</title>
+<description>4.0645%</description>
+<valueDate>16/03/16</valueDate>
+<pubDate>Wed, 16 Mar 2016 00:00:00 -0600</pubDate>
+</item>
+<item>
+<title>TIIE 91 DIAS</title>
+<description>4.1200%</description>
+<valueDate>16/03/16</valueDate>
+<pubDate>Wed, 16 Mar 2016 00:00:00 -0600</pubDate>
+</item>
+</channel>
+</rss>
